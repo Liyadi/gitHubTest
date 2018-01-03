@@ -8,5 +8,7 @@ public class Test {
 		double max=Arrays.stream(a).max().getAsDouble();
 		System.out.println(max);
 		System.out.println("改变1");
+		System.out.println("改变2");
+		
 	}
 }
