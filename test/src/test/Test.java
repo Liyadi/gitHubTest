@@ -9,6 +9,6 @@ public class Test {
 		System.out.println(max);
 		System.out.println("改变1");
 		System.out.println("改变2");
-		
+		System.out.println("改变3");
 	}
 }
